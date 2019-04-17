@@ -6,7 +6,7 @@ public class Service1 {
     public int foo(String string){
         String s = "3";
         String dev = "3";
-        String master = "1";
+        String master = "2";
         return Integer.valueOf(string);
     }
 }
